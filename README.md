@@ -11,7 +11,7 @@ I'm a passionate **Full-Stack Developer** dedicated to building AI-driven soluti
 
 ### 🚀 Featured Projects
 
-*   🛠️ **[Mistri App](https://github.com/rayrishu19-wq/namma-mistri)** — A service marketplace application connecting local handymen (Mistris) with customers.
+*   🛠️ **[Mistri App](https://github.com/rayrishu19-wq/namma-mistri)** — A service marketplace application connecting local handymen (Mistris) with customers. *(Work in progress)*
 *   📹 **[Video AI Summary](https://github.com/rayrishu19-wq/video-summary-using-ai-tools)** — A tool designed to summarize long videos into key insights.
 *   🍽️ **[Aura Fine Dining](https://github.com/rayrishu19-wq/indian-restaurants-web)** — An elegant, high-performance single-page web app highlighting modern UI/UX and dark mode.
 
@@ -36,6 +36,7 @@ I'm a passionate **Full-Stack Developer** dedicated to building AI-driven soluti
 
 #### **Open Source Contributions**
 I actively contribute to standard open-source projects including:
+*   **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** (Open-source API development ecosystem)
 *   **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (Core Web Curriculum & community helper)
 *   **[Meshery](https://github.com/meshery/meshery)** (Cloud Native Management Plane)
 
