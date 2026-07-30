@@ -53,6 +53,6 @@ I actively contribute to standard open-source projects including:
 
 ### 📫 Let's Connect!
 
-*   💼 **LinkedIn:** [linkedin.com/in/rayrishu19](https://linkedin.com/in/rayrishu19) *(replace with your username if different)*
-*   🌐 **Portfolio:** [rayrishu19-wq.github.io](https://rayrishu19-wq.github.io) *(replace with your link)*
+*   💼 **LinkedIn:** [linkedin.com/in/rayrishu19](https://linkedin.com/in/rayrishu19)
+*   🌐 **Portfolio:** [rayrishu19-wq.github.io/personal-portfolio](https://rayrishu19-wq.github.io/personal-portfolio/)
 *   💬 **Ask Me About:** Web performance, UI/UX, or AI APIs.
