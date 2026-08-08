@@ -11,9 +11,10 @@ I'm a passionate **Full-Stack Developer** dedicated to building AI-driven soluti
 
 ### 🚀 Featured Projects
 
-*   🛠️ **[Mistri App](https://github.com/rayrishu19-wq/namma-mistri)** — A service marketplace application connecting local handymen (Mistris) with customers. *(Work in progress)*
+*   🛡️ **[Sentinel API Gateway](https://github.com/rayrishu19-wq/sentinel-api-gateway)** — A custom API Gateway, reverse proxy, caching system, and Token Bucket rate limiter built with Node.js, Express, and Redis.
 *   📹 **[Video AI Summary](https://github.com/rayrishu19-wq/video-summary-using-ai-tools)** — A tool designed to summarize long videos into key insights.
 *   🍽️ **[Aura Fine Dining](https://github.com/rayrishu19-wq/indian-restaurants-web)** — An elegant, high-performance single-page web app highlighting modern UI/UX and dark mode.
+
 
 ---
 
